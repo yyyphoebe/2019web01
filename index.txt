@@ -1,0 +1,17 @@
+﻿<!doctype htnl>
+<html>
+<head>
+<meta charest="utf-8">
+<title>190808208刘丹的个人网站——首页</title>
+</head>
+
+<body bgcolor="khaki">
+</html><img src="images/profile.jpg" alt="个人照片" width="500" heigth="500"/ align="right">
+<h1>基本信息<h1>
+<p>院系：媒体工程学院<br/>
+软件工程2班<br/>
+姓名：刘丹<br/>
+学号：190808208<br/>
+贯籍：四川<br/>
+兴趣爱好：电影，美食，听歌<br/><p>
+</body>
